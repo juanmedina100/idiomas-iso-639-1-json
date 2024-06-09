@@ -15,7 +15,12 @@ Desde android usando Compose y kotlin
 
 ## Endpoint
 
-[](https://juanmedina100.github.io/idiomas-iso-639-1-json/idiomas-639-1.json)Idiomas
+Entra en [Idiomas](https://juanmedina100.github.io/idiomas-iso-639-1-json/idiomas-639-1.json) para porder acceder.
+
+## Estructura
+
+![](asset/img04.png)
+
 
 ApiService:
 ```kotlin
