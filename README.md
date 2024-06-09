@@ -21,6 +21,35 @@ Entra en [Idiomas](https://juanmedina100.github.io/idiomas-iso-639-1-json/idioma
 
 ![](asset/img04.png)
 
+## El JSON
+
+```JSON
+{
+    "idiomas": [
+        {
+            "idioma": "Abkhaz",
+            "codigo": "ab"
+        },
+        {
+            "idioma": "Afar",
+            "codigo": "aa"
+        },
+        {
+            "idioma": "Africanos",
+            "codigo": "af"
+        },
+        {
+            "idioma": "Akan",
+            "codigo": "ak"
+        },
+        {
+            "idioma": "Albania",
+            "codigo": "sq"
+        },
+        //...
+    ]
+}
+```
 
 ApiService:
 ```kotlin
